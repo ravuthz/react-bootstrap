@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@bit/ravuthz.react-bootstrap.components.about": "^1.0.0",
+    "@bit/ravuthz.react-bootstrap.components.home": "^1.0.0",
+    "@bit/ravuthz.react-bootstrap.components.layout": "^1.0.0",
+    "@bit/ravuthz.react-bootstrap.components.menu": "^1.0.0",
     "bootstrap": "^4.1.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",

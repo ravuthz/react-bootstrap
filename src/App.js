@@ -3,8 +3,12 @@ import { Jumbotron } from "reactstrap";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Layout from "./components/layout/Layout";
-import Home from "./components/home/Home";
-import About from "./components/about/About";
+// import Home from "./components/home/Home";
+// import About from "./components/about/About";
+// import About from "@bit/ravuthz.react-bootstrap.components.about";
+
+import Home from "@bit/ravuthz.react-bootstrap.components.home";
+import About from "@bit/ravuthz.react-bootstrap.components.about";
 
 class App extends Component {
   render() {

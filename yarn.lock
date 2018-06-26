@@ -2,6 +2,36 @@
 # yarn lockfile v1
 
 
+"@bit/ravuthz.react-bootstrap.components.about@^1.0.0":
+  version "1.0.0"
+  resolved "https://node.bitsrc.io/ravuthz.react-bootstrap.components.about/-/ravuthz.react-bootstrap.components.about-1.0.0.tgz#abc19fc5c5209454dcdebf711fd8760b1377b641"
+  dependencies:
+    react "^16.4.1"
+    reactstrap "^6.1.0"
+
+"@bit/ravuthz.react-bootstrap.components.home@^1.0.0":
+  version "1.0.0"
+  resolved "https://node.bitsrc.io/ravuthz.react-bootstrap.components.home/-/ravuthz.react-bootstrap.components.home-1.0.0.tgz#165d0a531cd52424e5e7e6fd10677d1202831aa7"
+  dependencies:
+    react "^16.4.1"
+    reactstrap "^6.1.0"
+
+"@bit/ravuthz.react-bootstrap.components.layout@^1.0.0":
+  version "1.0.0"
+  resolved "https://node.bitsrc.io/ravuthz.react-bootstrap.components.layout/-/ravuthz.react-bootstrap.components.layout-1.0.0.tgz#a06d3d0dc2688324cc99d4e74fd787c4130b76fd"
+  dependencies:
+    "@bit/ravuthz.react-bootstrap.components.menu" "1.0.0"
+    react "^16.4.1"
+    react-router-dom "^4.3.1"
+    reactstrap "^6.1.0"
+
+"@bit/ravuthz.react-bootstrap.components.menu@1.0.0", "@bit/ravuthz.react-bootstrap.components.menu@^1.0.0":
+  version "1.0.0"
+  resolved "https://node.bitsrc.io/ravuthz.react-bootstrap.components.menu/-/ravuthz.react-bootstrap.components.menu-1.0.0.tgz#666e68507d5fd41b24e4d84f32a20a0c6de01cdc"
+  dependencies:
+    react "^16.4.1"
+    reactstrap "^6.1.0"
+
 abab@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"
